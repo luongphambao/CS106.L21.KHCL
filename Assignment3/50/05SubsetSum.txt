@@ -1,0 +1,42 @@
+==> File path: ./picked_test_cases/05SubsetSum/n00050.kp
+Size: 50 items, Time taken: 0.1430034637451172s
+Total value = 108240
+Total weight = 108240
+Total packed items = 23
+
+
+==> File path: ./picked_test_cases/05SubsetSum/n00100.kp
+Size: 100 items, Time taken: 0.2550046443939209s
+Total value = 233895
+Total weight = 233895
+Total packed items = 44
+
+
+==> File path: ./picked_test_cases/05SubsetSum/n00200.kp
+Size: 200 items, Time taken: 0.608257532119751s
+Total value = 502063
+Total weight = 502063
+Total packed items = 93
+
+
+==> File path: ./picked_test_cases/05SubsetSum/n00500.kp
+Size: 500 items, Time taken: 1.4363958835601807s
+Total value = 1209964
+Total weight = 1209964
+Total packed items = 249
+
+
+==> File path: ./picked_test_cases/05SubsetSum/n01000.kp
+Size: 1000 items, Time taken: 2.660722494125366s
+Total value = 2418676
+Total weight = 2418676
+Total packed items = 491
+
+
+==> File path: ./picked_test_cases/05SubsetSum/n02000.kp
+Size: 2000 items, Time taken: 5.519789457321167s
+Total value = 5004504
+Total weight = 5004504
+Total packed items = 980
+
+

@@ -1,0 +1,42 @@
+==> File path: ./picked_test_cases/11ProfitCeiling/n00050.kp
+Size: 50 items, Time taken: 14.834707021713257s
+Total value = 116580
+Total weight = 116587
+Total packed items = 18
+
+
+==> File path: ./picked_test_cases/11ProfitCeiling/n00100.kp
+Size: 100 items, Time taken: 120.03373670578003s (time limit exceeded)
+Total value = 243426
+Total weight = 243433
+Total packed items = 42
+
+
+==> File path: ./picked_test_cases/11ProfitCeiling/n00200.kp
+Size: 200 items, Time taken: 34.72222352027893s
+Total value = 497700
+Total weight = 497719
+Total packed items = 80
+
+
+==> File path: ./picked_test_cases/11ProfitCeiling/n00500.kp
+Size: 500 items, Time taken: 120.04909801483154s (time limit exceeded)
+Total value = 1249626
+Total weight = 1249678
+Total packed items = 206
+
+
+==> File path: ./picked_test_cases/11ProfitCeiling/n01000.kp
+Size: 1000 items, Time taken: 2181.3437073230743s (time limit exceeded)
+Total value = 2393907
+Total weight = 2393998
+Total packed items = 424
+
+
+==> File path: ./picked_test_cases/11ProfitCeiling/n02000.kp
+Size: 2000 items, Time taken: 152.43175601959229s (time limit exceeded)
+Total value = 4936032
+Total weight = 4936243
+Total packed items = 857
+
+

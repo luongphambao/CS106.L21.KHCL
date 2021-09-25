@@ -1,0 +1,42 @@
+==> File path: ./picked_test_cases/12Circle/n00050.kp
+Size: 50 items, Time taken: 18.567835807800293s
+Total value = 8640164
+Total weight = 129609
+Total packed items = 19
+
+
+==> File path: ./picked_test_cases/12Circle/n00100.kp
+Size: 100 items, Time taken: 120.08279299736023s (time limit exceeded)
+Total value = 16983740
+Total weight = 254769
+Total packed items = 38
+
+
+==> File path: ./picked_test_cases/12Circle/n00200.kp
+Size: 200 items, Time taken: 188.70108771324158s (time limit exceeded)
+Total value = 34201536
+Total weight = 513049
+Total packed items = 73
+
+
+==> File path: ./picked_test_cases/12Circle/n00500.kp
+Size: 500 items, Time taken: 179.98173570632935s (time limit exceeded)
+Total value = 82054849
+Total weight = 1230885
+Total packed items = 183
+
+
+==> File path: ./picked_test_cases/12Circle/n01000.kp
+Size: 1000 items, Time taken: 168.7989683151245s (time limit exceeded)
+Total value = 162908360
+Total weight = 2443749
+Total packed items = 359
+
+
+==> File path: ./picked_test_cases/12Circle/n02000.kp
+Size: 2000 items, Time taken: 158.14280533790588s (time limit exceeded)
+Total value = 318023904
+Total weight = 4770600
+Total packed items = 735
+
+
